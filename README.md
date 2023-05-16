@@ -1,2 +1,2 @@
-# eternal-grid
- An endless top-down shooter made in C# with the Unity game engine. Includes an online leaderboard system powered by LootLocker.
+# eternal grid posters
+Posters and other original quality artwork made for the game.
