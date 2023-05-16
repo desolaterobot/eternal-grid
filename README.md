@@ -1,4 +1,4 @@
-# *the art of eternal-grid*
+# *ETERNAL GRID: THE ARTWORKS*
 Posters and other original quality artwork made for the game.
 
 # Posters
