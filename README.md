@@ -1,4 +1,4 @@
-# *ETERNAL GRID: THE ARTWORKS*
+# *ETERNAL DESIGNS*
 Posters and other original quality artwork made for the game.
 
 # Posters
