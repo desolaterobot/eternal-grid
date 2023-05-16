@@ -1,5 +1,5 @@
 # *ETERNAL DESIGNS*
-Posters and other original quality artwork made for the game.
+Wallpapers, posters and other original quality artwork made for the game.
 
 # Wallpapers
 ![image](https://github.com/desolaterobot/eternal-grid/blob/posters/mosaic-wallpaper.png)
